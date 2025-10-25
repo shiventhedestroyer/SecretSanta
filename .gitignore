@@ -1,0 +1,9 @@
+# Visual Studio / general
+.vs/
+.vscode/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
